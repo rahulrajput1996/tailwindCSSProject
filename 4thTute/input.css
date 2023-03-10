@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+.btn3{
+    @apply bg-yellow-200
+}
+@tailwind utilities;
+@layer components{
+.btn3 {
+        @apply bg-green-900 text-black mx-10 p-3 border-4 border-blue-500 rounded-xl border-solid
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "vite": "^4.1.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
+  },
+  "name": "16.tailwindcss",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
